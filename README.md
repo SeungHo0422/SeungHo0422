@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🧑🏻‍💻 Ricky (Seungho Song)
-<br>🖥 Back-End Developer<br>🏫 KangWoon University, Software<br>💡 I'm interested in Server, Software Architecture and DevOps
+>🖥 Back-End Developer<br>🏫 KangWoon University, Software<br>💡 I'm interested in Server, Software Architecture and DevOps
 
 
 ## 🌐 Socials:
