@@ -3,7 +3,7 @@
 🖥 Back-End Developer
 <br>🏫 KangWoon University, Software.
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
-<br>💡 Interested in **Server, Cloud, Software Architecture** and **DevOps**
+<br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
 
 ## 🌐 Socials:
