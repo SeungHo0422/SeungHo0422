@@ -15,11 +15,11 @@ E-mail : songseungho9258@gmail.com
 ## ✌️ Activities:
 2023.04 ~ 현재 : CNS LAB 학부연구생 활동 <br>
 2023.03 : B-Side 포텐데이 해커톤 참가 (Back-End Developer) <br>
-2022.11 : <Triple G> 학술제 주관 및 연사 (SwiftUI & SpringBoot를 활용한 일정관리 iOS Application 구축) <br>
+2022.11 : "Triple G" 2022 학술제 주관 및 연사 (SwiftUI & SpringBoot를 활용한 일정관리 iOS Application 구축) <br>
 2022.09 ~ 2022.11 : 산학연계인턴쉽 프로그램 참여 및 인턴 활동 ((주)Haheho) <br>
 2022.07 ~ 2023.02 : 광운대학교 산학협력SW프로젝트 참가 및 전시 (ReactNative + NodeJS 기반 Cross-Platform Application) <br>
-2022.07 ~ 2022.08 : <Triple G> 스터디그룹 주관 및 멘토 참여 (C, Python) <br>
-2022.03 ~ 2022.11 : 소프트웨어학부 학술동아리 <Triple G> 32기 회장 <br>
+2022.07 ~ 2022.08 : "Triple G" 스터디그룹 주관 및 멘토 참여 (C, Python) <br>
+2022.03 ~ 2022.11 : 소프트웨어학부 학술동아리 "Triple G" 32기 회장 <br>
 2019.02 : 광운대학교 소프트웨어학부 입학 <br>
 
 ## 🏫 Education
