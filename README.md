@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🧑🏻‍💻 Ricky (Seungho Song)
 >🖥 Back-End Developer
-><br>🏫 KangWoon University, Software
+><br>🏫 KangWoon University, Software.
 ><br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 ><br>💡 Interested in **Server, Cloud, Software Architecture** and **DevOps**
 
@@ -12,7 +12,21 @@
 ## ✉️ Contacts:
 E-mail : songseungho9258@gmail.com
 
-## ✌️
+## ✌️ Activities:
+2023.04 ~ 현재 : CNS LAB 학부연구생 활동
+2023.03 : B-Side 포텐데이 해커톤 참가 (Back-End Developer)
+2022.11 : <Triple G> 학술제 주관 및 연사 (SwiftUI & SpringBoot를 활용한 일정관리 iOS Application 구축)
+2022.09 ~ 2022.11 : 산학연계인턴쉽 프로그램 참여 및 인턴 활동 ((주)Haheho)
+2022.07 ~ 2023.02 : 광운대학교 산학협력SW프로젝트 참가 및 전시 (ReactNative + NodeJS 기반 Cross-Platform Application)
+2022.07 ~ 2022.08 : <Triple G> 스터디그룹 주관 및 멘토 참여 (C, Python)
+2022.03 ~ 2022.11 : 소프트웨어학부 학술동아리 <Triple G> 32기 회장
+2019.02 : 광운대학교 소프트웨어학부 입학
+
+## 🏫 Education
+2022.08 ~ 현재 : D.LAB 코딩교육아카데미 잠실캠퍼스 프로그래밍 강사 (진행중)
+2019.07 : KT IT서포터즈 주관 동양중학교 코딩교육 멘토 참여
+2019.03 ~ 2019.07 : 대학생 교육기부 프로그램 <알락달락> 참여. 2019-1학기 중화초등학교 5학년 학생들 대상 코딩교육 실시
+
 
 
 <br>
