@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🧑🏻‍💻 Ricky (Seungho Song)
 🖥 Back-End Developer
-<br>🏫 KangWoon University, Software.
+<br>🏫 Kwangwoon University, Software.
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
