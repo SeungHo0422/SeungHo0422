@@ -89,7 +89,7 @@ E-mail : songseungho9258@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-eta-azure-57.vercel.app/api?username=SeungHo0422&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)]
-![](https://github-readme-stats-eta-azure-57.vercel.app/api/top-langs?username=SeungHo0422&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=github-readme-stats,Dev-Event&hide=shell,EJS,C,HTML,CSS,Swift)
+![](https://github-readme-stats-eta-azure-57.vercel.app/api/top-langs?username=SeungHo0422&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=github-readme-stats,facebook-clone,Head-First-Design-Patterns,Dev-Event&hide=shell,EJS,C,HTML,CSS,Swift)
 
 <br>
 
