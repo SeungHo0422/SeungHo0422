@@ -3,6 +3,7 @@
 🖥 Back-End Developer
 <br>🏫 Kwangwoon University, Software.
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
+<br>☁️ AUSG 7th Crew
 <br>🧑🏻‍💼 D.LAB Coding Academy(Jamsil) Python Instructor
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
