@@ -14,6 +14,7 @@
 E-mail : songseungho9258@gmail.com
 
 ## ✌️ Activities:
+2023.07 ~ 현재 : [AUSG](https://ausg.me/) 7th Crew 참여 <br>
 2023.04 ~ 현재 : [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) 학부연구생 활동 <br>
 2023.03 : B-Side 포텐데이 해커톤 참가 ([Back-End Developer](https://github.com/potenday-project/Musubi_Server)) <br>
 2022.11 : "Triple G" 2022 학술제 주관 및 연사 (SwiftUI & Spring-Boot를 활용한 일정관리 [iOS Application](https://github.com/KW-TripleG/Calendar_Client) 구축) <br>
