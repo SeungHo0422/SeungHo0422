@@ -90,12 +90,6 @@ E-mail : songseungho9258@gmail.com
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-eta-azure-57.vercel.app/api?username=SeungHo0422&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
-![](https://github-readme-stats-eta-azure-57.vercel.app/api/top-langs?username=SeungHo0422&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=github-readme-stats,facebook-clone,Head-First-Design-Patterns,Dev-Event&hide=shell,EJS,C,HTML,CSS,Swift)
-
-<br>
-
 # BOJ Stats:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songseungho9258)](https://solved.ac/songseungho9258)
