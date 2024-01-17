@@ -4,17 +4,22 @@
 <br>🏫 Kwangwoon University, Software.
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>☁️ AUSG 7th Crew
+<br>🇰🇷 AWS Cloud Club in South Korea - Regional Captain
 <br>🧑🏻‍💼 D.LAB Coding Academy(Jamsil) Python Instructor
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seungho422)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickysong0422)
+[![Tech Blog](https://img.shields.io/badge/Tistory-FF4500.svg?logo=Tistory&logoColor=white)](https://ricky-dev.tistory.com/)
 
 ## ✉️ Contacts:
 E-mail : songseungho9258@gmail.com
 
 ## ✌️ Activities:
+2023.12 : GDSC KWU 주관 Devfest on Campus 발표 - [Cloud Native, 그래서 그게 뭔데?]() <br>
+2023.12 : 한국정보보호학회 동계학술대회(CISC-W '23) 논문 수록 - [ChatGPT와 Wikipedia 간 악성 코드 정보 문서 유사도 분석](https://cnslab-kw.github.io/papers/cisc_w_2023_song_choi.pdf) <br>
 2023.07 ~ 현재 : [AUSG](https://ausg.me/) 7th Crew 참여 <br>
 2023.04 ~ 현재 : [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) 학부연구생 활동 <br>
 2023.03 : B-Side 포텐데이 해커톤 참가 ([Back-End Developer](https://github.com/potenday-project/Musubi_Server)) <br>
