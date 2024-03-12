@@ -4,7 +4,7 @@
 <br>🏫 Kwangwoon University, Software. (GPA 4.07 / 4.5, [Major 4.2 / 4.5])
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>☁️ AUSG 7th Crew
-<br>🇰🇷 AWS Cloud Club in South Korea - Regional Captain
+<br>🇰🇷 AWS Cloud Club in South Korea - KWU Captain
 <br>🧑🏻‍💼 D.LAB Coding Academy(Jamsil) Python Instructor
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
