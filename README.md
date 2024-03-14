@@ -4,8 +4,7 @@
 <br>🏫 Kwangwoon University, Software. (GPA 4.07 / 4.5, [Major 4.2 / 4.5])
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>☁️ AUSG 7th Crew
-<br>🇰🇷 AWS Cloud Club in South Korea - KWU Captain
-<br>🧑🏻‍💼 D.LAB Coding Academy(Jamsil) Python Instructor
+<br>🇰🇷 AWS Cloud Club in South Korea - KWU Leader
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
 
@@ -18,6 +17,8 @@
 E-mail : songseungho9258@gmail.com
 
 ## ✌️ Activities
+2024.02 ~ 2024.05 : Korea Spring User Group(KSUG) - 2024 SpringCamp Organizer 활동
+2024.01 ~ 현재 : AWS Cloud Club in South Korea - Kwangwoon univ. 리더
 2023.12 : GDSC KWU 주관 Devfest on Campus 발표 - [Cloud Native, 그래서 그게 뭔데?](https://github.com/SeungHo0422/Presentations/blob/main/2023%20Devfest%20on%20Campus%20-%20Cloud%20Native%2C%20so%20what%20it%20is.pdf) <br>
 2023.12 : 한국정보보호학회 동계학술대회(CISC-W '23) 논문 수록 - [ChatGPT와 Wikipedia 간 악성 코드 정보 문서 유사도 분석](https://cnslab-kw.github.io/papers/cisc_w_2023_song_choi.pdf) <br>
 2023.07 ~ 현재 : [AUSG](https://ausg.me/) 7th Crew 참여 <br>
@@ -31,10 +32,10 @@ E-mail : songseungho9258@gmail.com
 2019.02 : 광운대학교 소프트웨어학부 입학 <br>
 
 ## 🏫 Mentoring / Lecturing
-2023.05 ~ 현재 : [DORO 3기](https://doroedu.net/) 청소년 SW교육 대학생 강사 (진행중) <br>
+2023.05 ~ 현재 : [DORO 3기, 5기](https://doroedu.net/) 청소년 SW교육 대학생 강사 (진행중) <br>
 2023.01 : 광운대학교 2023 예비SW학교 튜터 (Python) (1.26 ~ 2.1) <br>
 2023.01 : 광운대학교 2023 겨울SW학교 튜터 (C언어) (1.2 ~ 1.6) <br>
-2022.08 ~ 현재 : D.LAB 코딩교육아카데미 잠실캠퍼스 프로그래밍 강사 (진행중) <br>
+2022.08 ~ 2024.02 : D.LAB 코딩교육아카데미 잠실캠퍼스 프로그래밍 강사 <br>
 2022.07 ~ 2022.08 : "Triple G" 스터디그룹 주관 및 멘토 참여 (C, Python) <br>
 2019.07 : KT IT서포터즈 주관 동양중학교 코딩교육 멘토 참여 <br>
 2019.03 ~ 2019.07 : 대학생 교육기부 프로그램 <알락달락> 참여. 2019-1학기 중화초등학교 5학년 블록코딩 수업 진행 <br>
