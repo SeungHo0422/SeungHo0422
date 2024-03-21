@@ -17,8 +17,8 @@
 E-mail : songseungho9258@gmail.com
 
 ## ✌️ Activities
-2024.02 ~ 2024.05 : Korea Spring User Group(KSUG) - 2024 SpringCamp Organizer 활동
-2024.01 ~ 현재 : AWS Cloud Club in South Korea - Kwangwoon univ. 리더
+2024.02 ~ 2024.05 : Korea Spring User Group(KSUG) - 2024 SpringCamp Organizer 활동 <br>
+2024.01 ~ 현재 : AWS Cloud Club in South Korea - Kwangwoon univ. 리더 <br>
 2023.12 : GDSC KWU 주관 Devfest on Campus 발표 - [Cloud Native, 그래서 그게 뭔데?](https://github.com/SeungHo0422/Presentations/blob/main/2023%20Devfest%20on%20Campus%20-%20Cloud%20Native%2C%20so%20what%20it%20is.pdf) <br>
 2023.12 : 한국정보보호학회 동계학술대회(CISC-W '23) 논문 수록 - [ChatGPT와 Wikipedia 간 악성 코드 정보 문서 유사도 분석](https://cnslab-kw.github.io/papers/cisc_w_2023_song_choi.pdf) <br>
 2023.07 ~ 현재 : [AUSG](https://ausg.me/) 7th Crew 참여 <br>
