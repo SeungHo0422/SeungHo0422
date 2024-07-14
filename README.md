@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🧑🏻‍💻 Ricky (Seungho Song)
-🖥 Software Engineer
+🖥 Software Engineer @ [S2W Inc.](https://s2w.inc/en)
 <br>🏫 Kwangwoon University, Software. (GPA 4.07 / 4.5, [Major 4.2 / 4.5])
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>☁️ AUSG 7th Crew, 8th Organizer
