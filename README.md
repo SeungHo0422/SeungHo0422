@@ -3,7 +3,7 @@
 🖥 Software Engineer @ [S2W Inc.](https://s2w.inc/en)
 <br>🏫 Kwangwoon University, Software. (GPA 4.09 / 4.5, [Major 4.23 / 4.5])
 <br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
-<br>☁️ AUSG 7th Crew, 8th Organizer
+<br>☁️ AUSG 8th Organizer
 <br>🇰🇷 AWS Cloud Club in South Korea - KWU Founder, Captain
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
 
@@ -22,6 +22,7 @@ E-mail : songseungho9258@gmail.com
 ## ✌️ Activities
 2024.06 : 2024-1 <광운대학교 참빛설계학기> 우수상 - [KSS: 광운대학교 도서관 사석화 방지 프로그램](https://github.com/SeungHo0422/Presentations/blob/main/2024%20%EC%B0%B8%EB%B9%9B%EC%84%A4%EA%B3%84%ED%95%99%EA%B8%B0%20-%20Library%20Seat%20Occupancy%20Detection%20Program_KSS.pdf) <br>
 2024.04 : [AWS Cloud Club Student Community Day 2024](https://aws-cloud-clubs.github.io/student-community-day/2024/) 발표 - [Cloud Native. 트랜드에는 이유가 있다.](https://youtu.be/QyHT0eRcN08?si=2vYhynIJCqx6LUKU) <br>
+2024.03 ~ 현재 : AUSG 8기 Organizer 활동 진행
 2024.02 ~ 2024.05 : Korea Spring User Group(KSUG) - 2024 SpringCamp Organizer 활동 <br>
 2024.01 ~ 현재 : AWS Cloud Club in South Korea - Kwangwoon univ. Captain <br>
 2023.12 : GDSC KWU 주관 Devfest on Campus 발표 - [Cloud Native, 그래서 그게 뭔데?](https://github.com/SeungHo0422/Presentations/blob/main/2023%20Devfest%20on%20Campus%20-%20Cloud%20Native%2C%20so%20what%20it%20is.pdf) <br>
