@@ -17,7 +17,8 @@
 E-mail : songseungho9258@gmail.com
 
 ## 🏢 Carrers
-2024.07 ~ 2024.08 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern <br>
+2024.09 ~ 2024.11 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (AI Team) <br>
+2024.07 ~ 2024.08 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (Product Development Team) <br>
 
 ## ✌️ Activities
 2024.09 : [AUSGCON 2024](https://2024.ausg.me/) (AUSG Conference) 총괄 기획 및 진행 <br>
