@@ -21,6 +21,7 @@ E-mail : songseungho9258@gmail.com
 2024.07 ~ 2024.08 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (Product Development Team) <br>
 
 ## ✌️ Activities
+2024.11 : [AWS Community Day Seoul 2024](https://communityday.awskr.org/) 발표 - "서버리스 이븐하게 익히는 법" <br>
 2024.09 : [AUSGCON 2024](https://2024.ausg.me/) (AUSG Conference) 총괄 기획 및 진행 <br>
 2024.09 : OpenInfra Summit Asia 2024 자원봉사자 활동 <br>
 2024.06 : 2024-1 <광운대학교 참빛설계학기> 우수상 - [KSS: 광운대학교 도서관 사석화 방지 프로그램](https://github.com/SeungHo0422/Presentations/blob/main/2024%20%EC%B0%B8%EB%B9%9B%EC%84%A4%EA%B3%84%ED%95%99%EA%B8%B0%20-%20Library%20Seat%20Occupancy%20Detection%20Program_KSS.pdf) <br>
