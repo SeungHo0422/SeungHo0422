@@ -20,6 +20,10 @@ E-mail : songseungho9258@gmail.com
 2024.09 ~ 2024.11 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (AI Team) <br>
 2024.07 ~ 2024.08 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (Product Development Team) <br>
 
+## 🎖 Certificate
+2024.11 : AWS certified Solutions Architect - Associate <br>
+2024.06 : 정보처리기사 취득
+
 ## ✌️ Activities
 2024.11 : [AWS Community Day Seoul 2024](https://communityday.awskr.org/) 발표 - "서버리스 이븐하게 익히는 법" <br>
 2024.09 : [AUSGCON 2024](https://2024.ausg.me/) (AUSG Conference) 총괄 기획 및 진행 <br>
