@@ -25,6 +25,7 @@ E-mail : songseungho9258@gmail.com
 2024.06 : 정보처리기사 취득
 
 ## ✌️ Activities
+2025.01 : AWSKRUG Beginners 모임 발표 - ["늦게나마 풀어보는 re:Invent 2024 회고"](https://github.com/SeungHo0422/Presentations/blob/main/2025%20AWSKRUG%20Beginners%20-%20reinvent%20recap.pdf) <br>
 2024.11 : [AWS Community Day Seoul 2024](https://communityday.awskr.org/) 발표 - "서버리스 이븐하게 익히는 법" [(발표 영상)](https://youtu.be/nzYxbI1XUy4?si=1dcSl9BjF57pqvFx)<br>
 2024.09 : [AUSGCON 2024](https://2024.ausg.me/) (AUSG Conference) 총괄 기획 및 진행 <br>
 2024.09 : OpenInfra Summit Asia 2024 자원봉사자 활동 <br>
