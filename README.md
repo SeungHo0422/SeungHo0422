@@ -5,7 +5,7 @@
 <br>⭐️ Researcher in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>☁️ AUSG 8th Organizer
 <br>🇰🇷 AWS Cloud Club in South Korea - KWU Founder, Captain
-<br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
+<br>💡 Interested in **NLP, LLM** and **Cloud Architecture**
 
 
 ## 🌐 Socials
