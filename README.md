@@ -2,7 +2,7 @@
 ## 🧑🏻‍💻 Ricky (Seungho Song)
 🖥 Software Engineer @ [S2W Inc.](https://s2w.inc/en)
 <br>🏫 Kwangwoon University, Software. (GPA 4.09 / 4.5, [Major 4.23 / 4.5])
-<br>⭐️ Undergraduate research student in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
+<br>⭐️ Researcher in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
 <br>☁️ AUSG 8th Organizer
 <br>🇰🇷 AWS Cloud Club in South Korea - KWU Founder, Captain
 <br>💡 Interested in **Server, Cloud, NLP** and **DevOps**
