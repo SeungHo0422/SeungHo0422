@@ -1,8 +1,8 @@
 # Hi there 👋
 ## 🧑🏻‍💻 Ricky (Seungho Song)
-🖥 Software Engineer @ [S2W Inc.](https://s2w.inc/en)
-<br>🏫 Kwangwoon University, Software. (GPA 4.09 / 4.5, [Major 4.23 / 4.5])
+🖥 Software Engineer
 <br>⭐️ Researcher in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
+<br>🌎 AWS Community Builder - AI Engineering
 <br>☁️ AUSG 8th Organizer
 <br>🇰🇷 AWS Cloud Club in South Korea - KWU Founder, Captain
 <br>💡 Interested in **NLP, LLM** and **Cloud Architecture**
@@ -20,11 +20,16 @@ E-mail : songseungho9258@gmail.com
 2024.09 ~ 2025.02 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (AI Team) <br>
 2024.07 ~ 2024.08 : [S2W Inc.](https://s2w.inc/en) Software Engineer Intern (Product Development Team) <br>
 
+## 🏫 Education
+Kwangwoon University, Software. (GPA 4.09 / 4.5, [Major 4.23 / 4.5])
+
 ## 🎖 Certificate
 2024.11 : AWS certified Solutions Architect - Associate <br>
 2024.06 : 정보처리기사 취득
 
 ## ✌️ Activities
+2025.03 : AWSKRUG x HUG Seoul [Terraform Night](https://www.linkedin.com/posts/rickysong0422_awskrug-activity-7308529280601272320-s9qp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC89yBkBXgAQzs2PynWiIx1TxPiKg9kjEL8) 행사 총괄 <br>
+2025.03 : AWS Community Builder - AI Engineering <br>
 2025.01 : AWSKRUG Beginners 모임 발표 - ["늦게나마 풀어보는 re:Invent 2024 회고"](https://github.com/SeungHo0422/Presentations/blob/main/2025%20AWSKRUG%20Beginners%20-%20reinvent%20recap.pdf) <br>
 2024.11 : [AWS Community Day Seoul 2024](https://communityday.awskr.org/) 발표 - "서버리스 이븐하게 익히는 법" [(발표 영상)](https://youtu.be/nzYxbI1XUy4?si=1dcSl9BjF57pqvFx)<br>
 2024.09 : [AUSGCON 2024](https://2024.ausg.me/) (AUSG Conference) 총괄 기획 및 진행 <br>
