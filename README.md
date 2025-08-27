@@ -28,7 +28,7 @@ Kwangwoon University, Software. (GPA 4.09 / 4.5, [Major 4.23 / 4.5])
 2024.06 : 정보처리기사 취득
 
 ## ✌️ Activities
-2025.06 ~ 2025.08 : SKT Fly AI Challenger 7th 수료 - 개인부문 대상 <br>
+2025.06 ~ 2025.08 : SKT Fly AI Challenger 7th 수료 - 개인부문 <대상> 수상 <br>
 2025.03 : AWSKRUG x HUG Seoul [Terraform Night](https://www.linkedin.com/posts/rickysong0422_awskrug-activity-7308529280601272320-s9qp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC89yBkBXgAQzs2PynWiIx1TxPiKg9kjEL8) 행사 총괄 <br>
 2025.03 : AWS Community Builder - AI Engineering <br>
 2025.01 : AWSKRUG Beginners 모임 발표 - ["늦게나마 풀어보는 re:Invent 2024 회고"](https://github.com/SeungHo0422/Presentations/blob/main/2025%20AWSKRUG%20Beginners%20-%20reinvent%20recap.pdf) <br>
