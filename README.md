@@ -1,11 +1,8 @@
 # Hi there 👋
 ## 🧑🏻‍💻 Ricky (Seungho Song)
-🖥 Software Engineer
-<br>⭐️ Researcher in [CNS Lab](https://sites.google.com/view/c2nslab/home?authuser=0) (Prof. Jinwoo Kim)
+⭐️ M.S. Student @ School of Cybersecurity in Korea University (Prof. Sangkyun Lee)
 <br>🌎 AWS Community Builder - AI Engineering
-<br>☁️ AUSG 8th Organizer
-<br>🇰🇷 AWS Cloud Club in South Korea - KWU Founder, Captain
-<br>💡 Interested in **NLP, LLM** and **Cloud Architecture**
+<br>💡 Interested in **LLM Security**
 
 
 ## 🌐 Socials
